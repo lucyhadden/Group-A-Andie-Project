@@ -2,6 +2,9 @@ package cosc201.lab02;
 
 import cosc201.utilities.Timer;
 
+
+// THIS IS A TEST FOR A NEW BRANCH COMMIT, COOL.  
+
 /**
  * Lab 2, Experiment 1
  * 
