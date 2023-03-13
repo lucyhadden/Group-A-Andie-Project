@@ -2,6 +2,8 @@ package cosc201.lab02;
 
 import cosc201.utilities.Timer;
 
+// comment for test commit - Hayden 
+
 /**
  * Lab 2, Experiment 1
  * 
